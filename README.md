@@ -6,7 +6,7 @@ $ pkg install git
 
 $ pkg install python2
 
-$ git clone https://github.com/reyspeed/wifi
+$ git clone https://github.com/MrZ1R0/50R4
 
 $ cd wifi
 
