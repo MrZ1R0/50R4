@@ -8,9 +8,9 @@ $ pkg install python2
 
 $ git clone https://github.com/MrZ1R0/50R4
 
-$ cd wifi
+$ cd 50R4
 
-$ bash WIFI-WA.sh
+$ bash Wifi-by-Zh3nX.sh
 
 
 Peringatan
