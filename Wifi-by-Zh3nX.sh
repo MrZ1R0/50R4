@@ -100,7 +100,7 @@ echo "hacker Jahat Berawal Dari"
 sleep 4
 echo "hacker Baik yang Di Sakiti"
 sleep 4
-echo "Seperti Saya Yang Selalu Di Tikung oleh teman sendiri"
+echo "Seperti Saya Yang Selalu Di Tikung oleh teman saya sendiri"
 sleep 4
 echo "Jadi Kalian Harus Merasakan"
 sleep 4
