@@ -1,4 +1,4 @@
-# wifi no root #
+# TOOLS HACK WIFI/FACEBOOK/IG #
 
 $ pkg update && pkg upgrade
 
